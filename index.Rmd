@@ -1,6 +1,7 @@
 --- 
 title: "Applied Mathematics for Engineers"
-author: "Kalyana B. Nakshatrala"
+author: "Kalyana B. Nakshatrala\\
+sksdn"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
