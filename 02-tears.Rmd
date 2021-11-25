@@ -1,2 +1,2 @@
-# Partial Differential Equations
+# Ordinary Differential Equations
 
