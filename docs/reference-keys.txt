@@ -1,3 +1,4 @@
 introduction-to-mathematics
+learning-outcomes
 ordinary-differential-equations
 partial-differential-equations
