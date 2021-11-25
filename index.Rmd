@@ -5,11 +5,13 @@ date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
+>> "*People who wish to analyze nature without using mathematics must settle for a reduced understanding*." --  Richard Feynman.
+
 # Introduction to Mathematics
 
 > "*Mathematics is not merely an idle art form, it is an essential part of our society.*" -- Richard Hamming
 
-## Learning outcomes
+## Learning outcomes {- .unlisted}
 This chapter provides basic symbols of mathematics, rudiments of logic, and different modes of a mathematical proof. A read of the chapter will help an engineering student to appreciate mathematical writings, and it will, hopefully, help the student to bring rigor and precision in their technical writings. Learning how to write math is an important skill to have for a researcher, as Galileo GALILEI remarked: *Mathematics is the language of Science*.
 
 

@@ -1,5 +1,4 @@
 introduction-to-mathematics
-learning-outcomes
 mathematical-symbols
 ordinary-differential-equations
 partial-differential-equations
