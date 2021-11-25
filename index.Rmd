@@ -1,11 +1,18 @@
 --- 
-title: "Applied Mathematics for Engineers"
+title: "Applied Mathematics for Engineers: The Theoretical Minimum"
 author: "Kalyana B. Nakshatrala"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
->> "*People who wish to analyze nature without using mathematics must settle for a reduced understanding*." --  Richard Feynman.
+# {-}
+
+Kalyana B. Nakshatrala
+
+Civil and Environmental Engineering
+
+>> "*People who wish to analyze nature without using mathematics must settle for a reduced understanding*." -- Richard Feynman
+
 
 # Introduction to Mathematics
 
