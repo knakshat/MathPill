@@ -1,0 +1,28 @@
+# Differentiation
+
+## Definition and Calculations 
+
+\begin{align}
+\mathbf{a} \cdot \mathbf{b} = a_x \, b_x + a_y \, b_y + a_z \, b_z
+\end{align}
+
+\begin{problem}
+\begin{align}
+a = 1 i + b j + c k
+\end{align}
+\end{problem}
+
+## Derivative of important functions 
+
+
+## Product rule
+
+## Chain rule 
+
+## Properties of derivatives 
+
+### Practice problems
+
+## Properties 
+
+

@@ -1,0 +1,7 @@
+# Scalar triple product
+
+\begin{align}
+\mathbf{a} \cdot \mathbf{b} \times \mathbf{c} = a_x \, b_x + a_y \, b_y + a_z \, b_z
+\end{align}
+
+## Applications 

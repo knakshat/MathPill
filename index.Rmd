@@ -1,0 +1,82 @@
+--- 
+* title: "MathPill for UG Students"
+* author: "Kalyana B. Nakshatrala"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+---
+
+# {-}
+
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #ffffff; background-color: #222222; border-color: #777777;">
+**Math Pill for Undergraduate Students: The Theoretical Minimum**
+
+**Kalyana B. Nakshatrala**\
+Civil and Environmental Engineering\
+Website: <https://sites.google.com/view/caml-kbn>\
+Email: <k.b.nakshatrala@gmail.com>
+</div>
+
+
+> "*People who wish to analyze nature without using mathematics must settle for a reduced understanding*." -- Richard Feynman
+
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #ffffff; background-color: #aaaaaa; border-color: #777777;">
+*I dedicate this book to students.*
+</div>
+
+# Notice {-}
+This set of notes is built based on the lectures given by Dr. Kalyana B. Nakshatrala 
+in undergraduate courses. The main intention of this set of notes is to quickly equip 
+the students with the necessary mathematical preliminaries 
+so that they can enjoy the beautiful journey while taking mechanics courses: Statics, 
+and Mechanics of Solids. . 
+
+**CIVE 7336: Finite Element Methods**
+
+- Basic Mathematics
+
+- Set Theory
+
+- Linear Algebra
+
+- Calculus of Variations 
+
+**CIVE 7397: Computational Mechanics**
+
+- Linear Algebra
+
+- Partial Differential Equations
+
+- Differentiation, Variation, and Linearization
+
+- Nonlinear Equations 
+
+**CIVE 7397: Mechanics of Porous Media**
+
+- Basic Mathematics
+
+-  Set Theory
+
+- Linear Algebra
+
+-  Differentiation, Variation, and Linearization
+
+
+# Introduction to Mathematics
+
+> *''Mathematics is not merely an idle art form, it is an essential part of our society.''* -- Richard Hamming
+
+## Learning outcomes {- .unlisted}
+This chapter provides basic symbols of mathematics, rudiments of logic, and different modes of a mathematical proof. A read of the chapter will help an engineering student to appreciate mathematical writings, and it will, hopefully, help the student to bring rigor and precision in their technical writings. Learning how to write math is an important skill to have for a researcher, as Galileo GALILEI remarked: *Mathematics is the language of Science*.
+
+
+## Mathematical symbols
+We employ the following notation for the fundamental number systems: 
+\begin{align*}
+  \mathbb{N} &= \mbox{the set of positive integers} \\
+  \mathbb{Z} &= \mbox{the set of integers} \\
+  \mathbb{Q} &= \mbox{the set of rational numbers} \\
+  \mathbb{R} &= \mbox{the set of real numbers} \\
+  \mathbb{C} &= \mbox{the set of complex numbers} 
+\end{align*}
+
+## Exercises {-}

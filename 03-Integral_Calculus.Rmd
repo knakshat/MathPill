@@ -1,0 +1,10 @@
+# Part III: Integral Calculus {-}
+
+Table: Standard integrals
+
+|  $f(x)$    | $\int f(x) \, \mathrm{d}x$ |
+| -------- | ------- |
+| $\frac{1}{x}$    | $\ln(x) + C$ |
+| $x^{n} \, (n \neq 1)$  | $250    |
+| February | $80     |
+| March    | $420    |

@@ -1,0 +1,23 @@
+# Cross product
+```{definition}
+\begin{align}
+\mathbf{a} \times \mathbf{b} = (a_y \, b_z - a_z \, b_y) \, \widehat{\mathbf{i}} 
+\end{align}
+```
+
+Notice that the cross product of two vectors is a vector. 
+
+##  Calculation using determinants 
+
+$$\mathbf{a} \times \mathbf{b} = \left\vert\begin{array}{ccc}
+\widehat{\mathbf{i}} & \widehat{\mathbf{j}} & \widehat{\mathbf{k}} \\
+a_{x} & a_{y} & a_{z}\\
+b_{x} & b_{y} & b_{z}\\
+\end{array}\right|$$
+
+
+## Exercises {-}
+
+1. [True/False] Cross product satisfies the commutative property.
+
+2. Show that the cross product does not satisfy the commutative property. 
